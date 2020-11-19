@@ -5,6 +5,7 @@ Whenever it posts a question, it saves that to a file, and at midnight picks a r
 2) in the files of posted questions
 ### Todo:
 Run at midnight every day (done)  
+Change program to use awaits so discord.py actually works (done-ish?)  
 Get the questions from discord (not done)  
 Save the question picked to a file (not done)  
 Pick from the questions in discord not in the file (not done)  
